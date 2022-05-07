@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Faces of an Era
 
 You can use the [editor on GitHub](https://github.com/yangren72/Faces-of-an-Era/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
