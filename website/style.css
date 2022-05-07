@@ -91,7 +91,7 @@ nav{
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
-
+    transform: translate(0%,-30%);
 }
 .archive-col video{
     width: 100%;
