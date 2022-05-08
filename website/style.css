@@ -91,6 +91,7 @@ nav{
     margin-top: 0%;
     display: flex;
     justify-content: space-between;
+    transform: translate(0%,2%);
     
 }
 .archive-col{
