@@ -3,7 +3,6 @@
 <br>
 
 [website link](https://yangren72.github.io/Faces-of-an-Era/website/)
-
 <br><br>
 
 #### Artist Statement:
