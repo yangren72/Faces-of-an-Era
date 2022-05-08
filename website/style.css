@@ -48,6 +48,12 @@ nav{
     transform: translate(-50%,-50%);
     text-align: center;
 }
+
+.text-box ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
 .text-box a{
     color: #fff;
     text-decoration: none;
@@ -63,11 +69,11 @@ nav{
     transition: 0.5s;
 }
 .text-box ul a:hover::after{
-    width: 94px;
+    width: 100%;
 }
 
 .archive{
-    min-height: 80vh;
+    min-height: 70vh;
     width: 100%;
     background-color: rgb(0,0,0);
     background-position: center;
@@ -111,7 +117,51 @@ nav{
 }
 
 
+.more{
+    min-height: 10vh;
+    width: 100%;
+    background-color: rgb(0,0,0);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
 
+}
+
+.info-row{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+
+}
+
+.info-row ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 4px 30px;
+    position: relative;
+}
+.info-row ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+
+}
+
+.info-row ul a::after{
+    content: '';
+    width: 0px;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.info-row ul a:hover::after{
+    width: 100%;
+}
 
 
 
@@ -126,4 +176,38 @@ nav{
 
 
 
+
+
+/*-------- abstract-----*/
+
+.abstract{
+    min-height: 70vh;
+    width: 100%;
+    background-color: rgb(0,0,0);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+
+.text-box1{
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.text-box1 ul li{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.text-box1 a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+}
 
