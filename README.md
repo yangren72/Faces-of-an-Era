@@ -1,7 +1,9 @@
 # Faces of an Era 
 ### by Yang Ren (2022)
 <br>
-[webpage link](https://yangren72.github.io/Faces-of-an-Era/website/)
+
+[website link](https://yangren72.github.io/Faces-of-an-Era/website/)
+
 <br><br>
 
 #### Artist Statement:
