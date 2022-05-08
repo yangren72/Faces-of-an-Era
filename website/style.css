@@ -100,9 +100,15 @@ nav{
     position: relative;
     overflow: hidden;
     transform: translate(0%,-30%);
+    transition: 0.5s;
 }
 .archive-col video{
     width: 100%;
+}
+.archive-col:hover{
+
+    transform: translate(0%,-30%) scale(1.06);
+    
 }
 
 .layer{
@@ -113,9 +119,6 @@ nav{
     top: 0;
     left: 0;
     transition: 0.5s;
-}
-.layer:hover{
-    background: rgba(200,200,200,0.7);
 }
 
 
