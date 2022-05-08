@@ -193,7 +193,8 @@ nav{
 }
 
 .text-box1{
-    width: 90%;
+    width: 50%;
+    margin-top: 5%;
     color: #fff;
     position: absolute;
     top: 10px;
@@ -202,6 +203,9 @@ nav{
     text-align: center;
 }
 
+.text-box p1{
+    width: 60%;
+}
 .text-box1 ul li{
     list-style: none;
     display: inline-block;
