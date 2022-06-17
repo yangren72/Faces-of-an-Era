@@ -2,7 +2,7 @@
 ### by Yang Ren (2022)
 <br>
 
-[website link](https://yangren72.github.io/people-of-the-Gold/website/)
+[website link](https://yangren72.github.io/People-of-the-Gold/website/)
 <br><br>
 
 #### Artist Statement:
