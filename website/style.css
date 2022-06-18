@@ -172,8 +172,19 @@ nav{
 
 
 @media(max-width: 700px){
+    .header{
+        width: auto;
+    }
+    .archive{
+        width: auto;
+        padding: 20px;
+    }
+    .info-row{
+        width:auto;
+    }
+    
     .nav-links ul li a{
-        font-size: 52px;
+        font-size: 36px;
     }
     .text-box a{
         font-size: 18px;
@@ -205,6 +216,8 @@ nav{
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
+    font-size: 18px;
+    
 }
 
 .text-box p1{
@@ -219,6 +232,21 @@ nav{
     color: #fff;
     text-decoration: none;
     font-size: 24px;
+}
+
+
+@media(max-width: 700px){
+    .abstract{
+        width: auto;
+    }
+    .text-box1{
+        width: 70%;
+        margin-top: 20%;
+        font-size: 12px;
+    }
+    .archiveSingle{
+
+    }
 }
 
 /*-------- archiveDisplay-----*/
@@ -257,4 +285,10 @@ nav{
 .archiveDisplay video{
     width: 80%;
     max-width: 1000px;
+}
+
+@media(max-width: 700px){
+    .archiveSingle{
+        padding: 10px;
+    }
 }
